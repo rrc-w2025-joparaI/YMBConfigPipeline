@@ -1,5 +1,5 @@
 #This YMB pipeline  automatically testes changes pushed to the main branch, checks the standard python environment
-# Provides repetable test execution and visible test results. It is a good base for controlled deployment and software quality.
+# Provides repetable test execution and visible test results. It is a good base for controlled deployment and software quality
 
 name: YMB Banking App CI Pipeline
  
